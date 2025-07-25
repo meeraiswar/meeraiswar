@@ -58,7 +58,7 @@
 
 - ✉️ [Email](meeraaiswar@gmail.com)
 - 💼 [LinkedIn](www.linkedin.com/in/meera-iswar-a1a4b5256)  
-
+- 🌐 [Portfolio](https://dancing-mochi-e63b49.netlify.app/)
 
 ---
 
