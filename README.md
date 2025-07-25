@@ -38,18 +38,8 @@
 
 ---
 
-### ✨ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meera-iswar&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meera-iswar&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
 ### 🧠 Developer Mindset
 
-> “Focus on being productive instead of busy.”  
 > I believe in building smart, accessible, and scalable tech — with clean architecture, well-documented code, and human-centered design.
 
 ---
