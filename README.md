@@ -6,15 +6,6 @@
 
 ---
 
-### 🚀 About Me
-
-🎓 I'm a computer science student with a love for building efficient, user-friendly, and scalable tech solutions.  
-🧠 Currently sharpening my skills in Data Structures, Web Development, and Open Source.  
-📈 Actively working on projects that improve real-life systems and learning through hands-on problem solving.  
-💡 I believe in continuous learning and clean code that speaks for itself.
-
----
-
 ### 🛠️ Languages & Tools
 
 <p>
@@ -26,15 +17,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-### 📚 Currently Learning
-
-- 🔍 Advanced DSA 
-- 🌐 Frontend Mastery with React + Tailwind
-- 📊 System Design & API Integration
-- 🤝 Open Source Collaboration
 
 ---
 
