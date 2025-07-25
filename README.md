@@ -20,7 +20,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
@@ -57,7 +56,7 @@
 
 ### 📫 Let’s Connect!
 
-- ✉️ Email: meeraaiswar@gmail.com
+- ✉️ [Email](meeraaiswar@gmail.com)
 - 💼 [LinkedIn](www.linkedin.com/in/meera-iswar-a1a4b5256)  
 
 
