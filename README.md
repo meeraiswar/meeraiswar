@@ -30,6 +30,13 @@
 
 ---
 
+✅ Contributor @ Hoppscotch (GitHub OSS)
+- Submitted PR improving documentation formatting and markdown consistency
+- Pull request merged and included in main repository
+- Repo: github.com/hoppscotch/hoppscotch • PR: #<5277>
+
+---
+
 ### 📚 Currently Learning
 
 - 🔍 Advanced DSA 
