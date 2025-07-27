@@ -33,7 +33,7 @@
 ✅ Contributor @ Hoppscotch (GitHub OSS)
 - Submitted PR improving documentation formatting and markdown consistency
 - Pull request merged and included in main repository
-- Repo: https://github.com/hoppscotch/hoppscotch/pull/8142
+- Repo:https://github.com/hoppscotch/hoppscotch/pull/5277
 
 ---
 
